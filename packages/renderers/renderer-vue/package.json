@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^1.9.4",
-    "vue": "^3.2.22"
+    "vue": "^3.3.5"
   },
   "engines": {
     "node": "^14.15.0 || >=16.0.0"
