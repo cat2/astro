@@ -20,7 +20,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "babel-plugin-module-resolver": "^4.1.0",
+    "babel-plugin-module-resolver": "^5.0.1",
     "babel-preset-solid": "^1.2.3",
     "solid-js": "^1.2.3"
   },
